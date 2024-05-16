@@ -4,7 +4,7 @@ Finance and Economics (Grand Canyon University) </h2>
     <h2>Web Maintenance for Studio Rockford and Starlight Theatre</h2>
     
 <!--THIS IS AN IMAGE--> 
-<img src="Head Shot 2024 .pdf" alt="headshot" height="200">
+<img src="Head Shot 2024 .pdf" alt=" " height="200">
 
 <h1>Skills / Certifications</h1>
     <ul>
