@@ -5,7 +5,7 @@ Finance and Economics (Grand Canyon University) </h2>
     
 <!--THIS IS AN IMAGE--> 
 <!-- Embedding a PDF file -->
-<iframe src="Head Shot 2024.pdf" width="100%" height="600px"></iframe>
+<img src="Head Shot.png" alt="Page 1" height="200"
 
 <h1>Skills / Certifications</h1>
     <ul>
