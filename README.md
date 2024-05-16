@@ -2,7 +2,7 @@ Finance and Economics (Grand Canyon University) </h2>
 
 <h1>Work Experience</h1>
     <h2>Web Maintaince for Studio Rockford and Starlight Theatre</h2>
-<img src="./Head Shot.png" alt="headshot" height="200">
+<img src="[./Head Shot.png](https://www.backstage.com/u/salvatore-mendez/)" alt="headshot" height="200">
 <h1>Skills / Certifications</h1>
     <ul>
         <li>100 Days of Python</li>
