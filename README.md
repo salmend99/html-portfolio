@@ -15,25 +15,27 @@ Finance and Economics (Grand Canyon University) </h2>
         <li>Data Science</li>
     </ul>
 
-     <!--7 Use relevant anchor tags to create a multi-page website, listing
+<!--7 Use relevant anchor tags to create a multi-page website, listing
          other aspects of your resume such as Hobbies and Contact details.-->
-    <h2> Other </h2>
-    <ul>
-        <il> 
-            <a href="https://www.linkedin.com/feed/"> My LinkedIn</a>
-        </il>
-    </ul>    
+         
+<h2> Other </h2>
+<ul>
+    <li> 
+        <a href="https://www.linkedin.com/feed/"> My LinkedIn</a>
+    </li>
+</ul>     
   
  <!--8 Add a footer element with your name and any copyright 
     information or other disclaimers. 
     (Hint: use the MDN docs for things you don't know how to do: 
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer  -->
     
-    <footer>
-        <p>This is Salvatore's Web site he is very proud and 
+    
+<footer>
+    <p>This is Salvatore's Web site he is very proud and 
             going to continue to work hard into 2025 to become rich and proud
-        </p>
-      </footer>
+    </p>
+</footer>
   <!--  9 Save the index.html file and open it in a web browser to 
     ensure that it displays correctly. -->   
    
