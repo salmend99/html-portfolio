@@ -5,7 +5,7 @@ Finance and Economics (Grand Canyon University) </h2>
     
 <!--THIS IS AN IMAGE--> 
 <!-- Embedding a PDF file -->
-<img src="Head Shot.png" alt="Page 1" height="200"
+<img src="Head Shot.png" alt="Page 1" height="200">
 
 <h1>Skills / Certifications</h1>
     <ul>
